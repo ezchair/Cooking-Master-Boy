@@ -1,0 +1,19 @@
+{
+  "name": "cooking-master-boy",
+  "version": "1.0.0",
+  "description": "`Cooking-Master-Boy === Chūka Ichiban === 中華一番`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezchair/Cooking-Master-Boy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezchair/Cooking-Master-Boy/issues"
+  },
+  "homepage": "https://github.com/ezchair/Cooking-Master-Boy#readme"
+}
